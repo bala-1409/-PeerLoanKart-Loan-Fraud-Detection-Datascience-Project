@@ -37,3 +37,5 @@ The following findings were made during the project period.
 The developed model can be used to improve the efficiency of loan lending by helping PeerLoanKart to make more informed decisions about whether to approve or deny loan applications. Here the model used is Extreme Gradient Boosting(XG Boost) model with the 94% degree of accuracy.
 
 `Business Benefits` - Increase in profits up to 20% as NPA will be reduced due to loan disbursal for only good borrowers.
+
+`#0969DA`
