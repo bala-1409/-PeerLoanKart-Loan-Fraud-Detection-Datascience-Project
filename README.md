@@ -38,4 +38,4 @@ The developed model can be used to improve the efficiency of loan lending by hel
 
 `Business Benefits` - Increase in profits up to 20% as NPA will be reduced due to loan disbursal for only good borrowers.
 
-#f03c15- text in red
+<span style="color:orange;">Word up</span>
